@@ -1,0 +1,6 @@
+apiVersion: v2
+name: karcade-base
+description: A Helm Chart containing the most basic infrastructure to deploy Karcade, including CRDs relied on by other services.
+type: application
+version: 0.1.0
+appVersion: "0.0.1"
